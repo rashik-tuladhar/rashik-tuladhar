@@ -3,7 +3,7 @@
 ## I'm a Software Engineer, Tech Enthusiast Who Learns Something New Everyday
 
 - 🔭 I’m currently working on a [Clean Architecture Using .Net Core][website]!
-- 🌱 I’m currently advancing on .net development
+- 🌱 I’m currently advancing up my skill to more height
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute to Open Source projects and advance up my skills
 - 📫 How to reach me: tuladhar.rashik@gmail.com
