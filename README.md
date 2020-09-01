@@ -1,7 +1,4 @@
-### Hi there, I'm Rashik Tuladhar [website] 👋
-
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://blog.rashik.com.np)
-
+### Hi there, I'm Rashik Tuladhar [website](https://blog.rashik.com.np) 👋
 
 ## I'm a Software Engineer, Tech Enthusiast Who Learns Something New Everyday
 
