@@ -1,6 +1,6 @@
 ### Hi there, I'm Rashik Tuladhar [website](https://blog.rashik.com.np) 👋
 
-## I'm a Software Engineer, Tech Enthusiast Who Learns Something New Everyday
+## I'm a Software Engineer, Tech Enthusiast, Learning New Things Every Day 😎
 
 - 🔭 I’m currently working on a [Clean Architecture Using .Net Core][website]!
 - 🌱 I’m currently advancing up my skill to more height
