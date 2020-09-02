@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer, Tech Enthusiast, Learning New Things Every Day 😎
 
-- 🔭 I’m currently working on a [Clean Architecture Using .Net Core][website]!
+- 🔭 I’m currently working on a [Clean Architecture Using .Net Core][repolink]!
 - 🌱 I’m currently advancing up my skill to more height
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute to Open Source projects and advance up my skills
@@ -33,7 +33,7 @@
 ➡️ [more blog posts...](https://blog.rashik.com.np)
 
 ---
-
+[repolink]: https://github.com/rashik-tuladhar/WebApplicationClearArchitectureTemplate
 [website]: https://blog.rashik.com.np
 [twitter]: https://twitter.com/RashikTuladhar
 [instagram]: https://www.instagram.com/rashiktuladhar/
