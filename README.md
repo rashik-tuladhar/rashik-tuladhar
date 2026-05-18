@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a Hybrid Architecture!
 - 🌱 I’m currently advancing up my skill to more height
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2025 Goals: Contribute to Open Source projects and advance up my skills
+- 🥅 2026 Goals: Contribute to Open Source projects and advance up my skills
 - 📫 How to reach me: tuladhar.rashik@gmail.com
 
 
